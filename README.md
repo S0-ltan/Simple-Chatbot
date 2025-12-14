@@ -1,7 +1,10 @@
 🗨️ Simple Personal Chatbot
+
 📌 Description
+
 This is a simple personal chatbot built using the ChatterBot library in Python.
 It responds to basic questions and greetings, trained on small custom datasets.
+
 ⚡ Note:
 This project is just a starting point. It’s intentionally simple to demonstrate the basics of chatbot training.
 Future versions will include:
